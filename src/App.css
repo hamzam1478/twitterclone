@@ -4,10 +4,20 @@ body {
 }
 
 .app {
+<<<<<<< Updated upstream
   display: flex;
+=======
+>>>>>>> Stashed changes
   height: 100vh;
   max-width: 1300px;
   margin-left: auto;
   margin-right: auto;
   padding: 0 10px;
+<<<<<<< Updated upstream
+=======
+}
+
+.imransfeed {
+  color: black;
+>>>>>>> Stashed changes
 }

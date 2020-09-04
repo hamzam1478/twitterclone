@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 .feed {
   flex: 0.4;
   border-right: 1px solid var(--twitter-background);
@@ -21,4 +22,28 @@
 .feed__header > h2 {
   font-size: 20px;
   font-weight: 800;
+=======
+.feedimg {
+  border-radius: 30px;
+}
+
+h3 {
+  font-size: 10px;
+  color: gray;
+  position: relative;
+  left: 60px;
+  bottom: 40px;
+}
+
+.Avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+h2 {
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 10;
+>>>>>>> Stashed changes
 }
