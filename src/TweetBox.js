@@ -6,10 +6,7 @@ function TweetBox() {
   return (
     <div className="tweetBox">
       <form>
-<<<<<<< Updated upstream
-=======
         <h1>Welcome Hamza!</h1>
->>>>>>> Stashed changes
         <img className="avatar" src={mouse} alt="avatar"></img>
         <div className="tweetBox_input">
           <input placeholder="What's Happening?" type="text"></input>

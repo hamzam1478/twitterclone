@@ -1,14 +1,6 @@
-import React from "react";
+import React from 'react';
 import "./App.css";
 import Feed from "./Feed";
-<<<<<<< Updated upstream
-
-function App() {
-  return (
-    <div className="app">
-      <Feed />
-    </div>
-=======
 import simpsons from "./simpsons.gif";
 import TweetBox from "./TweetBox.js";
 import imran from "./imran.png";
@@ -16,6 +8,8 @@ import mouse from "./oldmickeyMouse.jpg";
 import history from "./hentri.jpg";
 import danielpfp from "./danielpfp.jpeg";
 import marriage from "./married.jpg";
+import TrendingWhole from './components/TrendingWhole'
+
 
 function App() {
   return (
@@ -48,11 +42,14 @@ function App() {
             image={marriage}
             avatar={danielpfp}
           />
+          <TrendingWhole/>
         </div>
       </div>
     </React.Fragment>
->>>>>>> Stashed changes
+
   );
 }
+
+
 
 export default App;

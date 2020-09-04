@@ -1,0 +1,31 @@
+.articleTwo{
+    width: 401px;
+    height: 90px;
+    /* margin: 2px auto; */
+    border: 1px solid #eee;
+    box-shadow: 0 0px 0.5px #ccc;
+    padding: 2px 14px 2px 14px ;
+    text-align: left;
+    background-color:#f5f8fa;
+    margin-top:0.5px;
+    margin-left:-20px;
+    margin-bottom:0px;
+    line-height:2px;
+    cursor:pointer;
+}
+
+.hashtagTwo{
+    color:black;
+    font-size: large;
+    font-weight:900;
+}
+
+.grey{
+    color:#919fa7;
+    font-weight:600;
+}
+
+.articleBottomTwo{
+    margin-bottom: 10px;
+}
+
