@@ -1,0 +1,22 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.heading{
+    /* position: absolute;
+    right: 0px; */
+    width: 397px;
+    height:15px;
+    background-color:#f5f8fa;
+    border-radius: 20px 20px 0px 0px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: left;
+    margin-top:8px;
+    margin-left:-19px;
+    padding: 1px 15px 35px 15px;
+    line-height:15px;
+}
+
+
+
+

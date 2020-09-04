@@ -1,28 +1,3 @@
-<<<<<<< Updated upstream
-.feed {
-  flex: 0.4;
-  border-right: 1px solid var(--twitter-background);
-  min-width: fit-content;
-  overflow-y: scroll;
-}
-
-.feed::-webkit-scrollbar {
-  display: none;
-}
-
-.feed__header {
-  position: sticky;
-  top: 0;
-  background-color: white;
-  z-index: 100;
-  border: 1px solid var(--twitter-background);
-  padding: 15px 20px;
-}
-
-.feed__header > h2 {
-  font-size: 20px;
-  font-weight: 800;
-=======
 .feedimg {
   border-radius: 30px;
 }
@@ -45,5 +20,4 @@ h2 {
   font-size: 20px;
   text-decoration: none;
   font-weight: 10;
->>>>>>> Stashed changes
 }

@@ -1,0 +1,25 @@
+.link{
+    color:#6bbff3;
+    padding: 0px 15px 20px 15px;
+    width: 397px;
+    height: 20px;
+    margin:auto;
+    text-align: left;
+    background-color:#f5f8fa;
+    font-weight: 1000;
+    border: 1px solid #eee;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0 0.2px 1px #ccc;
+    
+    margin-top:0px;
+    margin-left:-19px;
+    line-height:0.5;
+    cursor:pointer;
+}
+
+a{
+    color:#61bbf4;
+    text-decoration: none;
+}
+
+
